@@ -13,7 +13,9 @@
 
 # Tic Tac Toe iOS Game
 
-<img src="https://github.com/HaniCHERIFyassir/TicTacToe-IOS/assets/18191790/37e5f89b-a3b1-4cf5-857b-d2e82d46749c" width="300" />
+<img src="https://github.com/HaniCHERIFyassir/TicTacToe-IOS/assets/18191790/990ef40c-8451-4651-8926-b9e0e20bc1c1" width="300" />
+
+
 
 ## Logo Icon application 
 
@@ -31,8 +33,7 @@ Tic Tac Toe iOS Game is a simple implementation of the classic Tic Tac Toe game 
 - Two-player mode for playing against a friend locally.
 - User-friendly interface and smooth gameplay.
 
-![sdd](https://github.com/HaniCHERIFyassir/TicTacToe-IOS/assets/18191790/bdb977bd-f6ee-4ddd-bcf5-0098b989a7fa)
-
+<img src="https://github.com/HaniCHERIFyassir/TicTacToe-IOS/assets/18191790/bdb977bd-f6ee-4ddd-bcf5-0098b989a7fa" width="600" />
 
 ## Getting Started
 
