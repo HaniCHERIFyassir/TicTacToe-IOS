@@ -9,8 +9,6 @@ import UIKit
 
 class TicTacToeModel {
 
-
-
   func checkLine(_ player: NSAttributedString?,_ elements: [UIButton]) -> Bool {
     for element in elements {
       if element.attributedTitle(for: .normal) != player {
