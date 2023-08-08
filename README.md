@@ -1,7 +1,7 @@
 <h1 align="center"> Tic Tac Toe </h1> <br>
 <p align="center">
   <a>
-    <img alt="TicTacToe" title="TicTacToe" src="https://github.com/HaniCHERIFyassir/TicTacToe-IOS/assets/18191790/e6be6a2b-24b2-4098-af96-e58d48f11edf" width="600">
+    <img alt="TicTacToe" title="TicTacToe" src="https://github.com/HaniCHERIFyassir/TicTacToe-IOS/assets/18191790/e6be6a2b-24b2-4098-af96-e58d48f11edf" width="800">
     
 
   </a>
